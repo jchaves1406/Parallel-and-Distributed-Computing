@@ -1,4 +1,4 @@
-# Parallel-and-Distributed-Computing
+# Parallel and distributed computing
 
 # *Programacion modular en c*
 
