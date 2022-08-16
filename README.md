@@ -6,6 +6,7 @@ Se realiza el desarrollo de ejercicios planteados en el lenguaje c usando el par
 
 Para relizar la compilacion del programa se usara Make para generar la compilacion modular.
 
-El desarrollo del programa cuenta con dos interfaces, una para las funciones (taller_c_func_lib.h) y otra para las operaciones con matrices (matricial_func_lib.h).
+El desarrollo del programa esta compuesto por dos interfaces, una para las funciones (*taller_c_func_lib.h*) y otra para las operaciones con matrices (*matricial_func_lib.h*).
+El diseño de funciones esta conformado por 10 métodos, uno para cada ejercicio, ademas, posee un menu de opciones para navegar por las diferentes funcionalidades del programa. Por otra parte, el diseño de operaciones matriciales cuenta con los metodos de operaciones aritmeticas, asi como la responsabilidad de la inicializacion e impresion de las matrices.
 
 
