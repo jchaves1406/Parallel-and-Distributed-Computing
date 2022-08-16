@@ -22,6 +22,8 @@ Paso a paso con git:
 Compilar:
 
 * Ir a la ruta del directorio y compilar con make:
+
 `make taller_c_project`
+
 `./taller_c_project`
 
