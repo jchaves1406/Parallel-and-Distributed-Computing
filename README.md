@@ -15,7 +15,7 @@ Prerrequisitos compilación en linux: Instalación Build-Essentials
 
 Los paquetes build-essentials son metapaquetes que son necesarios para compilar software. Incluyen el depurador GNU, la colección de compiladores g++/GNU y algunas herramientas y bibliotecas más que se requieren para compilar un programa. Por ejemplo, si necesita trabajar en un compilador C/C++, debe instalar metapaquetes esenciales en su sistema antes de iniciar la instalación del compilador C. Al instalar los paquetes build-essential, algunos otros paquetes como G++, dpkg-dev, GCC y make, etc. también se instalan en su sistema.
 
-Paso a paso con git:
+Repositorio en git:
 
 * Clonar repositorio: git clone https://github.com/jchaves1406/Parallel-and-Distributed-Computing.git
 
